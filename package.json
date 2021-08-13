@@ -1,0 +1,11 @@
+{
+  "name": "zircle-ui-sandbox",
+  "version": "1.0.0",
+  "description": "For complex or javascript driven apps.\nhttps://github.com/zircleui/zircleUI",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "vue": "2.5.17",
+    "zircle": "1.0.1"
+  }
+}
